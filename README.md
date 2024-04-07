@@ -15,3 +15,7 @@
 - Building scalable web applications.
 - Crafting intelligent algorithms.
 - Delving into the realms of machine learning.
+
+Contact me via
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-revello-408650185)
