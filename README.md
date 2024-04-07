@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**Simon890/simon890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Passionate 23-year-old software developer with a keen interest in programming.
+- 🌱 Specializing in software development and artificial intelligence.
+- 💼 5 years of experience in the tech industry.
 
-Here are some ideas to get you started:
+## 💡 Characteristics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Belief in the power of clean, efficient code to solve complex problems.
+- 🤝 Thrive in collaborative environments, valuing teamwork and communication.
+- 🎯 Attention to detail, adaptability, and a continuous learning mindset.
+
+## 🚀 Goals
+
+- Building scalable web applications.
+- Crafting intelligent algorithms.
+- Delving into the realms of machine learning.
