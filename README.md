@@ -1,8 +1,8 @@
 ## 👨‍💻 About Me
 
-- 🔭 Passionate 24 year old software developer with a keen interest in programming.
+- 🔭 Passionate 25 year old software developer with a keen interest in programming.
 - 🌱 Specializing in software development and artificial intelligence.
-- 💼 5 years of experience in the tech industry.
+- 💼 6 years of experience in the tech industry.
 
 ## 💡 Characteristics
 
